@@ -21,8 +21,7 @@ Espera-se que a análise revele alta concentração de betweenness nos corredore
 
 ## Links da plataforma Loom
 
-* **Link referente à análise do código:** (Inserir quando gravar)
-* **Link referente à análise no Gephi:** (Inserir quando gravar)
+* **Link referente ao vídeo geral:** [(https://www.loom.com/share/f54ba710b765473199fac0db7188cd95)]
 
 ---
 
