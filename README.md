@@ -63,10 +63,10 @@ Para o bairro, as figuras agora refletem detalhes mais granulares:
 | **Fig 01** | **Malha Viária:** Representação geográfica da rede de vias do bairro. | [fig01_malha_viaria (1).png] |
 | **Fig 02** | **PDF e CDF de Grau:** Distribuição empírica de probabilidade do grau dos nós. | [fig02_distribuicao_grau (1).png] |
 | **Fig 03** | **Hubs Principais:** Identificação geográfica dos 10 principais cruzamentos/hubs. | [fig03_hubs_map (1).png] |
-| **Fig 04a** | **Betweenness (Mapa):** Centralidade de intermediação ao longo da malha. | [fig04_betweenness (1).png] |
-| **Fig 05a** | **Closeness (Mapa):** Centralidade de proximidade (acessibilidade dos nós). | [fig05_closeness (1).png] |
-| **Fig 06a** | **K-Shell:** Visualização geográfica da decomposição k-shell da rede. | [fig06_kcore_kshell (1).png] |
-| **Fig 07a** | **Eigenvector (Mapa):** Centralidade de autovetor destacando nós conectados a hubs. | [fig07_eigenvector (1).png] |
+| **Fig 04** | **Betweenness (Mapa):** Centralidade de intermediação ao longo da malha. | [fig04_betweenness (1).png] |
+| **Fig 05** | **Closeness (Mapa):** Centralidade de proximidade (acessibilidade dos nós). | [fig05_closeness (1).png] |
+| **Fig 06** | **K-Shell:** Visualização geográfica da decomposição k-shell da rede. | [fig06_kcore_kshell (1).png] |
+| **Fig 07** | **Eigenvector (Mapa):** Centralidade de autovetor destacando nós conectados a hubs. | [fig07_eigenvector (1).png] |
 | **Fig 08** | **PairGrid de Métricas:** Gráfico de correlação cruzada entre as métricas. | [fig08_pairgrid_metricas (1).png] |
 | **Fig 09** | **Matriz de correlação:** Matriz de correlação cruzada entre as métricas. | [fig09_matriz_correlacao (1).png] |
 
